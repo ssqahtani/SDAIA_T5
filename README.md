@@ -2,9 +2,11 @@
 Saad Alqahtani
 
 ## Abstract
-The goal of this project is to use a classification model to predict which class the individual belongs to based on their exercise performance after doing some explanatory data analysis and preprocessing.
+The goal of this project is to use a classification model to predict which class grade they belongs to, based on their exercise performance after doing some explanatory data analysis and preprocessing.
      
 ## Design
+
+The data originates from Korea Sports Promotion Foundation and it is a public dataset uploaded on Kaggle. This dataset has categorized people into class grades. The goal is to use a classification algorithm and try more than one to get the best accuracy score.
 
 
 ## Data
